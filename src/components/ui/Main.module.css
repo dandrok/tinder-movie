@@ -1,0 +1,57 @@
+.rel {
+  position: relative;
+}
+
+.abs {
+  position: absolute;
+  background-color: rgb(226, 226, 226);
+  padding: 1rem;
+  /* min-height: 720px; */
+}
+
+.img {
+  max-width: 400px;
+  height: auto;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  position: relative;
+}
+
+.inside {
+  position: relative;
+}
+
+.absl {
+  position: absolute;
+}
+
+.container__btns {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem;
+}
+
+button {
+  padding: 1rem;
+  color: white;
+}
+
+.btn__accept {
+  background-color: green;
+}
+
+.btn__reject {
+  background-color: red;
+}
+
+.container__title {
+  display: flex;
+  justify-content: center;
+}
+
+.rating {
+  font-weight: 900;
+}
