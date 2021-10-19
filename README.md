@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Tinder-movie
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> [LIVE DEMO HERE](https://hardcore-panini-4ac4a8.netlify.app/)
+
+---
 
 ## Available Scripts
 
