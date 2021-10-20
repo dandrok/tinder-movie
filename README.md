@@ -2,6 +2,10 @@
 
 > [LIVE DEMO HERE](https://hardcore-panini-4ac4a8.netlify.app/)
 
+    Instead of simply mapping the data, I decided to use fetch. The main function is simply click on Accept or Reject to go to the next movie. The rating is green when it is above 7 and the red game is below 7.
+    There are also routines for subpages that have not been completed.
+    As you can see, my knowledge of TS is at a beginner's level.
+
 ---
 
 ## Available Scripts
